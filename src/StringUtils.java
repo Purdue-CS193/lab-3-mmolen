@@ -40,4 +40,4 @@ public class StringUtils {
         /* Replace every instance of the username with proper message */
         return text.replaceAll(username, "[DATA EXPUNGED]");
     }
-}//committing
+}//commit

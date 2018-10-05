@@ -44,4 +44,4 @@ public class MathUtils {
             return res;
         }
     }    
-}//commiting
+}//commit
